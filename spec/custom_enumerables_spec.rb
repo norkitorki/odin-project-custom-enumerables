@@ -1,4 +1,4 @@
-require_relative '../custom_enumerables'
+require_relative '../lib/custom_enumerables'
 
 describe Enumerable do
   # the private iterate method is called in every method tested below
